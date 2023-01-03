@@ -12,13 +12,74 @@
 - 🔭 I’m worked on Flutter Application [Dream Riders Android Version](https://play.google.com/store/apps/details?id=com.dreamrider.dreamriders) [Dream Riders iOS Version](https://apps.apple.com/us/app/dream-riders/id1629505438)
 
 
-- 💬 Ask me about **Machine Learning, Android Development, Flutter Development**
 
-- 📫 How to reach me **mark.fouad99@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<h4>My Projects</h4>
+
+<h5>Machine Learning Projects</h5>
+
+- Medical Basket Analysis
+  <br/>Used technology: Python, Excel, SQL Queries, TFS, Git, Spider, Preprocessing, Data Mining, Machine Learning
+      Finding relations between tests with each other and Did “Vitamin D” trigger other tests or triggered by other tests? From that point, we performed medical test Basket Analysis with FP Growth model with 85% support and 90% confidence.
+
+- PCR Analysis Project
+ <br/>Used technology:SQL Queries, Excel, DAX, Power BI, TFS, Git, Data visualization
+      IDH company needed to know how many PCR tests were distributed since the start of Covid-19, how many PCR tests were performed in each branch, and how many positive and negative results we have received. Afterwards, we were able to determine the region that had a high rate of infection and determine exactly the needs of each branch. 
+      
+- Lipid Medical test
+   <br/>Used technology:Preprocessing, Data Mining, Deep learning, Machine Learning, Python, Excel, SQL Queries, Spider, 
+  Build a predictable system by using ANN algorithm to predict and evaluate the risk of every patient who has tested positive or negative.
+
+- Marketing Campaign Response Prediction
+   <br/>Used technology:Preprocessing, Data Mining, Machine Learning, Python, Excel, SQL Queries, TFS, Git, Spider
+    Build a predictable system by using ANN algorithm to predict patient responses by conducting tests in IDH that assisted the company in sending marketing campaigns to the targeted patients to attract them by sending special offers.
+
+- [Cyclitic Google Capstone Project](https://www.kaggle.com/theoryers/cyclistic-dataset-google-capstone)
+   <br/>Used technology:Preprocessing, R studio, R programming language, Data visualization, Kaggle, Excel
+  The Cyclitic project was a graduation project from Google Data Analytics specialization that talks about a bike sharing company with a fleet of 5824 bicycles and 692 stations across Chicago that requires the study of behavioral differences between casual riders and members. The role of the project was to distinguish ways to have casual riders buy a membership using digital media to increase the company’s profit by converting casual riders to annual members. 
+
+- [Heart Attack Disease](https://www.kaggle.com/code/theoryers/heart-diseases-prediction-system)
+   <br/>Used technology:Python, Excel, Kaggle, Spider, Preprocessing, Data Mining, Machine Learning, Deep learning
+  This project was a predictable model by Random Forest Decision Trees library with accuracy of 84%. My prediction system was updated by using ANN with accuracy of 94%, to evaluate the risk of every patient who probably has heart disease.
+
+<h5>iOS Projects</h5>
+
+- <img src="https://play-lh.googleusercontent.com/hYrkW5rgkT4SOUSCmguYmsnpocQhNlCwoZWPsC6vHOEk7Y2bJuLGfKG-liwKfgdQRg=w480-h960-rw" alt="android" width="40" height="40"/> [AlMokhtabar Patient](https://apps.apple.com/eg/app/almokhtabar-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A8%D8%B1/id1079320486) 
+
+- <img src="https://play-lh.googleusercontent.com/Q6D4m61-oMLGGAtWTNkUScbxxoKOtI3b69lD6rZQFQEcd-TghkEwYlnOES3gUpejcA=w480-h960-rw" alt="android" width="40" height="40"/> [EchoLab patient](https://apps.apple.com/eg/app/echolab/id1438043859)
+
+- <img src="https://play-lh.googleusercontent.com/Of0yPOBQ27rakUJv5DfNXaKFgXSJD5mYoe6DhIMmTsgJlDo9vp52CvLhpl8ibYwR7NE=w480-h960-rw" alt="android" width="40" height="40"/> [Alborglab  Patient](https://apps.apple.com/us/app/alborglab-%D9%85%D8%B9%D8%A7%D9%85%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D8%AC/id1452067856) 
+
+
+<h5>Android Projects</h5>
+
+- <img src="https://play-lh.googleusercontent.com/W-8DrKL9cKiWAnOR-HrpGf8ds0TjPmNcTouWkRBO7opxQBSw_1Mhjyt3yso2N2dtzBM=w480-h960-rw" alt="android" width="40" height="40"/> [Packaging App](https://play.google.com/store/apps/details?id=com.idh.share_box)
+
+- <img src="https://play-lh.googleusercontent.com/n6wcx13vaChjPq9BiP3DniVJ-rrTvQUO5OKtf6V7lvPvwVANlxl46hhSVv2JnJTu6g=w480-h960-rw" alt="android" width="40" height="40"/> [Almokhtabar HC](https://play.google.com/store/apps/details?id=yackeen.almokhtabar.chemist) 
+
+- <img src="https://play-lh.googleusercontent.com/hYrkW5rgkT4SOUSCmguYmsnpocQhNlCwoZWPsC6vHOEk7Y2bJuLGfKG-liwKfgdQRg=w480-h960-rw" alt="android" width="40" height="40"/> [AlMokhtabar Patient](https://play.google.com/store/apps/details?id=yackeen.idh.almokhtabar.almokhtabar) 
+
+- <img src="https://play-lh.googleusercontent.com/Q6D4m61-oMLGGAtWTNkUScbxxoKOtI3b69lD6rZQFQEcd-TghkEwYlnOES3gUpejcA=w480-h960-rw" alt="android" width="40" height="40"/> [EchoLab patient](https://play.google.com/store/apps/details?id=echolab.idh.PatientApp)
+
+- <img src="https://play-lh.googleusercontent.com/Of0yPOBQ27rakUJv5DfNXaKFgXSJD5mYoe6DhIMmTsgJlDo9vp52CvLhpl8ibYwR7NE=w480-h960-rw" alt="android" width="40" height="40"/> [Alborglab  Patient](https://play.google.com/store/apps/details?id=alborglab.app.lab) 
+
+- <img src="https://play-lh.googleusercontent.com/AsFjcehIilcMtuySheDXSTxFjNiOP5Y53ZXdoVyhFkRmMdWF7QoUCWvIcI2nubFml-8=w480-h960-rw" alt="android" width="40" height="40"/> [Alborglab HC](https://play.google.com/store/apps/details?id=yackeen.alborg.chemist)
+
+<h5>Flutter Projects</h5>
+
+- <img src="https://play-lh.googleusercontent.com/1NOFCYnfFQstv0Fa2OEaehT2GYZyc4829rIGSvMv2mTWTTqr1TmdpUEWjchYFP6RL_PD=w480-h960-rw" alt="android" width="40" height="40"/> Swiftr [Android Version](https://play.google.com/store/apps/details?id=se.android.swiftr.swiftr) - [iOS Version](https://apps.apple.com/us/app/swiftr/id1260906262)
+
+- <img src="https://play-lh.googleusercontent.com/_vrwrpVloOtqpbb1fCJGZLWdGD0K37Z28n5_NC1dCIfCRMhCvjJfUd_eEfyhF9bEbPaQ=w480-h960-rw" alt="android" width="40" height="40"/> Organ Live [Android Version](https://play.google.com/store/apps/details?id=com.organ.media.organ_media) 
+
+-  <img src="https://play-lh.googleusercontent.com/Sp7wIVEkEOcEqlcR_-POPtqhrW6111wIMOPil9h-JHQWWZrDQhMml7rGXIzwWWd60g=w480-h960-rw" alt="android" width="40" height="40"/> Dream Riders [Android Version](https://play.google.com/store/apps/details?id=com.dreamrider.dreamriders) - [iOS Version](https://apps.apple.com/us/app/dream-riders/id1629505438)
+
+- <img src="https://play-lh.googleusercontent.com/9YW-L5NiXs9x7umD-MouIYzvKyzUWzG2ZS97Ge_gC96j3Gb3I-jZ_PlDGOoT68uX3Q=w480-h960-rw" alt="android" width="40" height="40"/> SKODA Cars [Android Version](https://play.google.com/store/apps/details?id=com.skoda.skodacar&fbclid=IwAR0Yn7daXTAMjYT2T0V207ya2q6vEzx3AM0hUtbmBHCIlbm3HtCDiwz8XZU) - [iOS Version](https://apps.apple.com/us/app/%C5%A1koda-mc/id1578478791)
+
+- <img src="https://play-lh.googleusercontent.com/U64NmeqS8fh6luh4ItaUYqkwlIuiLd6Xxgkdd4lRESyE42j5IGVx3vlvBzmVATmo6zw=w480-h960-rw" alt="android" width="40" height="40"/> Mr Fix [Android Version](https://play.google.com/store/apps/details?id=com.vadecom.mr_fix) - [iOS Version](https://apps.apple.com/us/app/dream-riders/id1629505438)
+
+- <img src="https://play-lh.googleusercontent.com/kQSt6u5uHbCISbvQpXapPtS_reitScNhww6osj919tBc9WXLDmXNBFZqBGhUaXMS2A=w480-h960-rw" alt="android" width="40" height="40"/> Garage Center [Android Version](https://play.google.com/store/apps/details?id=com.vadecom.garagecenter)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,3 +100,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markgeorge10&" alt="markgeorge10" /></p>
 
+- 💬 Ask me about **Machine Learning, Android Development, Flutter Development**
+
+- 📫 How to reach me **mark.fouad99@gmail.com**
