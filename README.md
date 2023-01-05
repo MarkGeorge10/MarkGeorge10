@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markgeorge10" alt="markgeorge10" /></a> </p>
 
-- 🔭 I’m worked on machine learning project [Medical Basket Analysis](https://docs.google.com/spreadsheets/d/1NAXkcjv3T69OuTMLSvcTXiwLYrLgjz_U/edit?usp=sharing&ouid=103806509485333549148&rtpof=true&sd=true)
+- 🔭 I’m worked on Organ Live mobile application project.
 
 - 🌱 I’m currently learning **Computer Vision and Enhance my skills in Algorithms**
-
-- 🔭 I’m worked on Flutter Application [Dream Riders Android Version](https://play.google.com/store/apps/details?id=com.dreamrider.dreamriders) [Dream Riders iOS Version](https://apps.apple.com/us/app/dream-riders/id1629505438)
-
-
 
 
 <h4>My Projects</h4>
@@ -69,7 +65,7 @@
 
 - <img src="https://play-lh.googleusercontent.com/1NOFCYnfFQstv0Fa2OEaehT2GYZyc4829rIGSvMv2mTWTTqr1TmdpUEWjchYFP6RL_PD=w480-h960-rw" alt="android" width="40" height="40"/> Swiftr [Android Version](https://play.google.com/store/apps/details?id=se.android.swiftr.swiftr) - [iOS Version](https://apps.apple.com/us/app/swiftr/id1260906262)
 
-- <img src="https://play-lh.googleusercontent.com/_vrwrpVloOtqpbb1fCJGZLWdGD0K37Z28n5_NC1dCIfCRMhCvjJfUd_eEfyhF9bEbPaQ=w480-h960-rw" alt="android" width="40" height="40"/> Organ Live [Android Version](https://play.google.com/store/apps/details?id=com.organ.media.organ_media) 
+- <img src="https://play-lh.googleusercontent.com/_vrwrpVloOtqpbb1fCJGZLWdGD0K37Z28n5_NC1dCIfCRMhCvjJfUd_eEfyhF9bEbPaQ=w480-h960-rw" alt="android" width="40" height="40"/> Organ Live [Android Version](https://play.google.com/store/apps/details?id=com.organ.media.organ_media) - [iOS Version](https://apps.apple.com/app/organ-live-media-foundation/id1663040569) 
 
 -  <img src="https://play-lh.googleusercontent.com/Sp7wIVEkEOcEqlcR_-POPtqhrW6111wIMOPil9h-JHQWWZrDQhMml7rGXIzwWWd60g=w480-h960-rw" alt="android" width="40" height="40"/> Dream Riders [Android Version](https://play.google.com/store/apps/details?id=com.dreamrider.dreamriders) - [iOS Version](https://apps.apple.com/us/app/dream-riders/id1629505438)
 
