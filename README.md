@@ -75,6 +75,16 @@
 
 - <img src="https://play-lh.googleusercontent.com/kQSt6u5uHbCISbvQpXapPtS_reitScNhww6osj919tBc9WXLDmXNBFZqBGhUaXMS2A=w480-h960-rw" alt="android" width="40" height="40"/> Garage Center [Android Version](https://play.google.com/store/apps/details?id=com.vadecom.garagecenter)
 
+<h5>SharePoint Projects & Power Automate & Power Apps</h5>
+
+  - Pension Power App
+  - Summer Vacation Power App
+  - User Creation Workflow
+  - Email Notification System
+  - Happy Birthday Automation System
+  - Quality Document Management System
+  - SAP Management System
+  - Intranet IDH
 
 
 <h3 align="left">Connect with me:</h3>
