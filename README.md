@@ -78,12 +78,24 @@
 <h5>SharePoint Projects & Power Automate & Power Apps</h5>
 
   - Pension Power App
+  
   - Summer Vacation Power App
+  
   - User Creation Workflow
+  
   - Email Notification System
+  
   - Happy Birthday Automation System
+    <br/>It is a power automate with SharePoint site that contain list of employees' data and validate on date of each employee's birth and send a personal email says Happy Birthday Mr. (…) so we succeed to save effort on internal communication team instead of creating a very long pdf file and send it every month a birthdays list of this month throughout emails.
+    
   - Quality Document Management System
+  <br/>It is a SharePoint & Power Automate is used to manage and organize documents for IDH Quality team.
+make a news announcement to all branches and units and automate any kind of document or report approval.
+send an email remind to Quality team that document is going to be archived within a month to notify them to update these files.
+
   - SAP Management System
+     <br/>It is a team SharePoint site and manage folders, template excel sheets in the document library and this site is built based on user permissions to make each branch to view his only folder and its files inside folder but technical lead can view a group of branches folders and files to lead them and review on their files and archive Our goal is to try to digitize these workflows from manual process to digital flow to make everything under control as possible as we can and can be review, track technical leads and branches.
+     
   - Intranet IDH
 
 
