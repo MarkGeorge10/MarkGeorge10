@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markgeorge10" alt="markgeorge10" /></a> </p>
 
-- 🔭 I’m worked on Organ Live mobile application project.
-
+- 🔭 I’m studying applied calculus with python on coursera.
+-  I'm working on fitness application
 - 🌱 I’m currently learning **Computer Vision and Enhance my skills in Algorithms**
 
 
