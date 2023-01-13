@@ -7,6 +7,7 @@
 
 - 🔭 I’m studying applied calculus with python on coursera.
 -  I'm working on fitness application
+-  I'm working on educational application
 - 🌱 I’m currently learning **Computer Vision and Enhance my skills in Algorithms**
 
 
