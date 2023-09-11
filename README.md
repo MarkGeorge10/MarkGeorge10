@@ -5,10 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markgeorge10" alt="markgeorge10" /></a> </p>
 
-- 🔭 I’m studying applied calculus with python on coursera.
--  I'm working on fitness application
--  I'm working on educational application
-- 🌱 I’m currently learning **Computer Vision and Enhance my skills in Algorithms**
+- 🔭 I’m studying **Master's degree in Artificial Intelligence**.
+- 🌱 I’m currently **Enhance my skills in Algorithms**.
 
 
 <h4>My Projects</h4>
