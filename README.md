@@ -11,47 +11,53 @@
 
 <h5>Machine Learning Projects</h5>
 
-- Medical Basket Analysis
-  <br/>Used technology: Python, Excel, SQL Queries, TFS, Git, Spider, Preprocessing, Data Mining, Machine Learning
+- **Medical Basket Analysis**
+  <br/>Used technology: Python, Excel, SQL Queries, TFS, Git, Spider, Preprocessing, Data Mining, Machine Learning<br/>
       Finding relations between tests with each other and Did “Vitamin D” trigger other tests or triggered by other tests? From that point, we performed medical test Basket Analysis with FP Growth model with 85% support and 90% confidence.
 
-- PCR Analysis Project
- <br/>Used technology:SQL Queries, Excel, DAX, Power BI, TFS, Git, Data visualization
+- **PCR Analysis Project**
+ <br/>Used technology:SQL Queries, Excel, DAX, Power BI, TFS, Git, Data visualization<br/>
       IDH company needed to know how many PCR tests were distributed since the start of Covid-19, how many PCR tests were performed in each branch, and how many positive and negative results we have received. Afterwards, we were able to determine the region that had a high rate of infection and determine exactly the needs of each branch. 
       
-- Lipid Medical test
-   <br/>Used technology:Preprocessing, Data Mining, Deep learning, Machine Learning, Python, Excel, SQL Queries, Spider, 
+- **Lipid Medical test**
+   <br/>Used technology:Preprocessing, Data Mining, Deep learning, Machine Learning, Python, Excel, SQL Queries, Spider<br/>
   Build a predictable system by using ANN algorithm to predict and evaluate the risk of every patient who has tested positive or negative.
 
-- Marketing Campaign Response Prediction
-   <br/>Used technology:Preprocessing, Data Mining, Machine Learning, Python, Excel, SQL Queries, TFS, Git, Spider
+- **Marketing Campaign Response Prediction**
+   <br/>Used technology:Preprocessing, Data Mining, Machine Learning, Python, Excel, SQL Queries, TFS, Git, Spider<br/>
     Build a predictable system by using ANN algorithm to predict patient responses by conducting tests in IDH that assisted the company in sending marketing campaigns to the targeted patients to attract them by sending special offers.
 
-- [Cyclitic Google Capstone Project](https://www.kaggle.com/theoryers/cyclistic-dataset-google-capstone)
-   <br/>Used technology:Preprocessing, R studio, R programming language, Data visualization, Kaggle, Excel
+- **[Cyclitic Google Capstone Project](https://www.kaggle.com/theoryers/cyclistic-dataset-google-capstone)**
+   <br/>Used technology:Preprocessing, R studio, R programming language, Data visualization, Kaggle, Excel<br/>
   The Cyclitic project was a graduation project from Google Data Analytics specialization that talks about a bike sharing company with a fleet of 5824 bicycles and 692 stations across Chicago that requires the study of behavioral differences between casual riders and members. The role of the project was to distinguish ways to have casual riders buy a membership using digital media to increase the company’s profit by converting casual riders to annual members. 
 
-- [Heart Attack Disease](https://www.kaggle.com/code/theoryers/heart-diseases-prediction-system)
-   <br/>Used technology:Python, Excel, Kaggle, Spider, Preprocessing, Data Mining, Machine Learning, Deep learning
+- **[Heart Attack Disease](https://www.kaggle.com/code/theoryers/heart-diseases-prediction-system)**
+   <br/>Used technology:Python, Excel, Kaggle, Spider, Preprocessing, Data Mining, Machine Learning, Deep learning<br/>
   This project was a predictable model by Random Forest Decision Trees library with accuracy of 84%. My prediction system was updated by using ANN with accuracy of 94%, to evaluate the risk of every patient who probably has heart disease.
 
 
 <h5>Backend Projects</h5>
 
-- My Day 
-  <br/>Used technology: Nestjs, Typescript, Prisma, Clickup, Github, Git, Supabase, SQL Queries,
-      I have developed a backend application for a wedding mobile app using Prisma and NestJS. Your application deals with user authentication using JWT, manages vendors and their categories, and allows users to create wedding plans 
-      based on a specific budget. this application contains:<br/>
-      [User Authentication] with Using JWT for token-based authentication and authorization, User Profile to allow users to create and update their profiles and Store user-specific data like saved plans, favorites, or past weddings.<br/>
-      [Vendor Management] Implement CRUD (Create, Read, Update, Delete) operations for vendors, and Categorize vendors for easy navigation and search.<br/>
-      [Wedding Planning] Create a structured plan object that includes details such as budget, vendors, etc, Implement budget tracking and expense management for the wedding plan, Allow users to add and remove items or tasks from     
-                            their plans, and Provide recommendations based on the budget and preferences.<br/>
-      [Search and Filters] Implement search functionality for vendors and categories, and Use filters to refine vendor searches based on location, price range, and services.<br/>
-      [Notifications] Send notifications for important events like upcoming appointments or tasks, and Allow users to customize their notification preferences.<br/>
+  - **My Day** 
+       <br/>Used technology: Nestjs, Typescript, Prisma, Clickup, Github, Git, Supabase, SQL Queries <br/>
+      I have developed a backend application for a wedding mobile app using Prisma and NestJS. Your application 
+      deals with user authentication using JWT, manages vendors and their categories, and allows users to create 
+     wedding plans based on a specific budget. this application contains:<br/>
+      - User Authentication with Using JWT for token-based authentication and authorization, User Profile to allow 
+         users to create and update their profiles and Store user-specific data like saved plans, favorites, or past 
+          weddings.<br/>
+      - [Vendor Management] Implement CRUD (Create, Read, Update, Delete) operations for vendors, and Categorize vendors for easy navigation and search.<br/>
+      - [Wedding Planning] Create a structured plan object that includes details such as budget, vendors, etc, Implement budget tracking and expense management for the wedding plan, Allow users to add and remove items or tasks from their plans, and Provide recommendations based on the budget and preferences.<br/>
+      - [Search and Filters] Implement search functionality for vendors and categories, and Use filters to refine vendor searches based on location, price range, and services.<br/>
+      - [Notifications] Send notifications for important events like upcoming appointments or tasks, and Allow users to customize their notification preferences.<br/>
 
-- Davedology Course management system
- <br/>Used technology: ASP.net core, SQL Server, video streaming, Github, Git, SQL Queries,
-      The Course management backend system designed to elevate the teaching and learning experience. Our platform seamlessly integrates lessons with engaging video content and interactive quizzes, empowering educators and students alike. Teachers enjoy a user-friendly dashboard to effortlessly add lessons and quizzes, while also gaining access to insightful analytics for the quiz section. Elevate your educational journey with our innovative course management solution.
+- **Davedology Course management system** 
+    <br/>Used technology: ASP.net core, SQL Server, video streaming, Github, Git, SQL Queries<br/>
+      The Course management backend system designed to elevate the teaching and learning experience. Our 
+      platform seamlessly integrates lessons with engaging video content and interactive quizzes, empowering 
+      educators and students alike. Teachers enjoy a user-friendly dashboard to effortlessly add lessons and quizzes, 
+      while also gaining access to insightful analytics for the quiz section. Elevate your educational journey with our 
+      innovative course management solution.
 
 
 <h5>iOS Projects</h5>
@@ -98,26 +104,28 @@
 
 <h5>SharePoint Projects & Power Automate & Power Apps</h5>
 
-  - Pension Power App
+  - **Pension Power App** 
   
-  - Summer Vacation Power App
+  - **Summer Vacation Power App**
   
-  - User Creation Workflow
+  - **User Creation Workflow**
   
-  - Email Notification System
+  - **Email Notification System**
   
-  - Happy Birthday Automation System
+  - **Intranet IDH**
+  
+  - **Happy Birthday Automation System**
     <br/>It is a power automate with SharePoint site that contain list of employees' data and validate on date of each employee's birth and send a personal email says Happy Birthday Mr. (…) so we succeed to save effort on internal communication team instead of creating a very long pdf file and send it every month a birthdays list of this month throughout emails.
     
-  - Quality Document Management System
+  - **Quality Document Management System**
   <br/>It is a SharePoint & Power Automate is used to manage and organize documents for IDH Quality team.
 make a news announcement to all branches and units and automate any kind of document or report approval.
 send an email remind to Quality team that document is going to be archived within a month to notify them to update these files.
 
-  - SAP Management System
+  - **SAP Management System**
      <br/>It is a team SharePoint site and manage folders, template excel sheets in the document library and this site is built based on user permissions to make each branch to view his only folder and its files inside folder but technical lead can view a group of branches folders and files to lead them and review on their files and archive Our goal is to try to digitize these workflows from manual process to digital flow to make everything under control as possible as we can and can be review, track technical leads and branches.
      
-  - Intranet IDH
+  
 
 
 <h3 align="left">Connect with me:</h3>
