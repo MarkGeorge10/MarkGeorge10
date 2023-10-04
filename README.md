@@ -35,6 +35,25 @@
    <br/>Used technology:Python, Excel, Kaggle, Spider, Preprocessing, Data Mining, Machine Learning, Deep learning
   This project was a predictable model by Random Forest Decision Trees library with accuracy of 84%. My prediction system was updated by using ANN with accuracy of 94%, to evaluate the risk of every patient who probably has heart disease.
 
+
+<h5>Backend Projects</h5>
+
+- My Day 
+  <br/>Used technology: Nestjs, Typescript, Prisma, Clickup, Github, Git, Supabase, SQL Queries,
+      I have developed a backend application for a wedding mobile app using Prisma and NestJS. Your application deals with user authentication using JWT, manages vendors and their categories, and allows users to create wedding plans 
+      based on a specific budget. this application contains
+      - [User Authentication] with Using JWT for token-based authentication and authorization, User Profile to allow users to create and update their profiles and Store user-specific data like saved plans, favorites, or past weddings.
+      - [Vendor Management] Implement CRUD (Create, Read, Update, Delete) operations for vendors, and Categorize vendors for easy navigation and search.
+      - [Wedding Planning] Create a structured plan object that includes details such as budget, vendors, etc, Implement budget tracking and expense management for the wedding plan, Allow users to add and remove items or tasks from     
+                            their plans, and Provide recommendations based on the budget and preferences.
+      - [Search and Filters] Implement search functionality for vendors and categories, and Use filters to refine vendor searches based on location, price range, and services.
+      - [Notifications] Send notifications for important events like upcoming appointments or tasks, and Allow users to customize their notification preferences.
+
+- Davedology Course management system
+ <br/>Used technology: ASP.net core, SQL Server, video streaming, Github, Git, SQL Queries,
+      The Course management backend system designed to elevate the teaching and learning experience. Our platform seamlessly integrates lessons with engaging video content and interactive quizzes, empowering educators and students alike. Teachers enjoy a user-friendly dashboard to effortlessly add lessons and quizzes, while also gaining access to insightful analytics for the quiz section. Elevate your educational journey with our innovative course management solution.
+
+
 <h5>iOS Projects</h5>
 
 - <img src="https://play-lh.googleusercontent.com/hYrkW5rgkT4SOUSCmguYmsnpocQhNlCwoZWPsC6vHOEk7Y2bJuLGfKG-liwKfgdQRg=w480-h960-rw" alt="android" width="40" height="40"/> [AlMokhtabar Patient](https://apps.apple.com/eg/app/almokhtabar-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A8%D8%B1/id1079320486) 
