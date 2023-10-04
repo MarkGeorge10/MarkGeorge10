@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark Fahim</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=markgeorge10&label=Profile%20views&color=0e75b6&style=flat" alt="markgeorge10" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markgeorge10" alt="markgeorge10" /></a> </p>
 
 - 🔭 I’m studying **Master's degree in Artificial Intelligence**.
 - 🌱 I’m currently **Enhance my skills in Algorithms**.
@@ -62,9 +60,13 @@
 
 <h5>Flutter Projects</h5>
 
+
 - <img src="https://play-lh.googleusercontent.com/1NOFCYnfFQstv0Fa2OEaehT2GYZyc4829rIGSvMv2mTWTTqr1TmdpUEWjchYFP6RL_PD=w480-h960-rw" alt="Swiftr" width="40" height="40"/> Swiftr [Android Version](https://play.google.com/store/apps/details?id=se.android.swiftr.swiftr) - [iOS Version](https://apps.apple.com/us/app/swiftr/id1260906262)
+  
 - <img src="https://github.com/MarkGeorge10/MarkGeorge10/assets/34999954/9a5d2121-af87-4693-9ea0-8dbbac4e4a2b" alt="Rayan" width="40" height="40"/> Rayan [Android Version](https://play.google.com/store/apps/details?id=com.skyvision.rayan) - [iOS Version](https://apps.apple.com/app/rayan-app/id6449189511)
 
+- <img src="https://github.com/MarkGeorge10/MyDayApp/assets/34999954/367f3b5a-8da8-44af-b64b-12c76df92ce3" alt="My Day" width="40" height="40"/> Rayan [Demo Video](https://photos.app.goo.gl/TCyZqPDBPRy16eJb7)
+  
 - <img src="https://play-lh.googleusercontent.com/_vrwrpVloOtqpbb1fCJGZLWdGD0K37Z28n5_NC1dCIfCRMhCvjJfUd_eEfyhF9bEbPaQ=w480-h960-rw" alt="android" width="40" height="40"/> Organ Live [Android Version](https://play.google.com/store/apps/details?id=com.organ.media.organ_media) - [iOS Version](https://apps.apple.com/app/organ-live-media-foundation/id1663040569) 
 
 -  <img src="https://play-lh.googleusercontent.com/Sp7wIVEkEOcEqlcR_-POPtqhrW6111wIMOPil9h-JHQWWZrDQhMml7rGXIzwWWd60g=w480-h960-rw" alt="Dream Riders" width="40" height="40"/> Dream Riders [Android Version](https://play.google.com/store/apps/details?id=com.dreamrider.dreamriders) - [iOS Version](https://apps.apple.com/us/app/dream-riders/id1629505438)
