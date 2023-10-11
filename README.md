@@ -38,7 +38,7 @@
 
 <h5>Backend Projects</h5>
 
-  - **My Day** 
+  - **Wedding NestJs Application** 
        <br/>Used technology: Nestjs, Typescript, Prisma, Clickup, Github, Git, Supabase, SQL Queries <br/>
       I have developed a backend application for a wedding mobile app using Prisma and NestJS. Your application 
       deals with user authentication using JWT, manages vendors and their categories, and allows users to create 
@@ -46,10 +46,10 @@
       - User Authentication with Using JWT for token-based authentication and authorization, User Profile to allow 
          users to create and update their profiles and Store user-specific data like saved plans, favorites, or past 
           weddings.<br/>
-      - [Vendor Management] Implement CRUD (Create, Read, Update, Delete) operations for vendors, and Categorize vendors for easy navigation and search.<br/>
-      - [Wedding Planning] Create a structured plan object that includes details such as budget, vendors, etc, Implement budget tracking and expense management for the wedding plan, Allow users to add and remove items or tasks from their plans, and Provide recommendations based on the budget and preferences.<br/>
-      - [Search and Filters] Implement search functionality for vendors and categories, and Use filters to refine vendor searches based on location, price range, and services.<br/>
-      - [Notifications] Send notifications for important events like upcoming appointments or tasks, and Allow users to customize their notification preferences.<br/>
+      - Vendor Management Implement CRUD (Create, Read, Update, Delete) operations for vendors, and Categorize vendors for easy navigation and search.<br/>
+      - Wedding Planning Create a structured plan object that includes details such as budget, vendors, etc, Implement budget tracking and expense management for the wedding plan, Allow users to add and remove items or tasks from their plans, and Provide recommendations based on the budget and preferences.<br/>
+      - Search and Filters Implement search functionality for vendors and categories, and Use filters to refine vendor searches based on location, price range, and services.<br/>
+      - Notifications Send notifications for important events like upcoming appointments or tasks, and Allow users to customize their notification preferences.<br/>
 
 - **Davedology Course management system** 
     <br/>Used technology: ASP.net core, SQL Server, video streaming, Github, Git, SQL Queries<br/>
