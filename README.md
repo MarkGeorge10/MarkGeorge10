@@ -9,7 +9,7 @@
 
 <h4>My Projects</h4>
 
-<h5>Machine Learning Projects</h5>
+<h4>Machine Learning Projects</h4>
 
 - **Medical Basket Analysis**
   <br/>Used technology: Python, Excel, SQL Queries, TFS, Git, Spider, Preprocessing, Data Mining, Machine Learning<br/>
@@ -36,7 +36,7 @@
   This project was a predictable model by Random Forest Decision Trees library with accuracy of 84%. My prediction system was updated by using ANN with accuracy of 94%, to evaluate the risk of every patient who probably has heart disease.
 
 
-<h5>Backend Projects</h5>
+<h4>Backend Projects</h4>
 
   - **Wedding NestJs Application** 
        <br/>Used technology: Nestjs, Typescript, Prisma, Clickup, Github, Git, Supabase, SQL Queries <br/>
@@ -60,7 +60,7 @@
       innovative course management solution.
 
 
-<h5>iOS Projects</h5>
+<h4>iOS Projects</h4>
 
 - <img src="https://play-lh.googleusercontent.com/hYrkW5rgkT4SOUSCmguYmsnpocQhNlCwoZWPsC6vHOEk7Y2bJuLGfKG-liwKfgdQRg=w480-h960-rw" alt="android" width="40" height="40"/> [AlMokhtabar Patient](https://apps.apple.com/eg/app/almokhtabar-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A8%D8%B1/id1079320486) 
 
@@ -69,7 +69,7 @@
 - <img src="https://play-lh.googleusercontent.com/Of0yPOBQ27rakUJv5DfNXaKFgXSJD5mYoe6DhIMmTsgJlDo9vp52CvLhpl8ibYwR7NE=w480-h960-rw" alt="android" width="40" height="40"/> [Alborglab  Patient](https://apps.apple.com/us/app/alborglab-%D9%85%D8%B9%D8%A7%D9%85%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D8%AC/id1452067856) 
 
 
-<h5>Android Projects</h5>
+<h4>Android Projects</h4>
 
 - <img src="https://play-lh.googleusercontent.com/W-8DrKL9cKiWAnOR-HrpGf8ds0TjPmNcTouWkRBO7opxQBSw_1Mhjyt3yso2N2dtzBM=w480-h960-rw" alt="android" width="40" height="40"/> [Packaging App](https://play.google.com/store/apps/details?id=com.idh.share_box)
 
@@ -83,7 +83,7 @@
 
 - <img src="https://play-lh.googleusercontent.com/AsFjcehIilcMtuySheDXSTxFjNiOP5Y53ZXdoVyhFkRmMdWF7QoUCWvIcI2nubFml-8=w480-h960-rw" alt="android" width="40" height="40"/> [Alborglab HC](https://play.google.com/store/apps/details?id=yackeen.alborg.chemist)
 
-<h5>Flutter Projects</h5>
+<h4>Flutter Projects</h4>
 
 
 - <img src="https://play-lh.googleusercontent.com/1NOFCYnfFQstv0Fa2OEaehT2GYZyc4829rIGSvMv2mTWTTqr1TmdpUEWjchYFP6RL_PD=w480-h960-rw" alt="Swiftr" width="40" height="40"/> Swiftr [Android Version](https://play.google.com/store/apps/details?id=se.android.swiftr.swiftr) - [iOS Version](https://apps.apple.com/us/app/swiftr/id1260906262)
@@ -102,7 +102,7 @@
 
 - <img src="https://play-lh.googleusercontent.com/kQSt6u5uHbCISbvQpXapPtS_reitScNhww6osj919tBc9WXLDmXNBFZqBGhUaXMS2A=w480-h960-rw" alt="android" width="40" height="40"/> Garage Center [Android Version](https://play.google.com/store/apps/details?id=com.vadecom.garagecenter)
 
-<h5>SharePoint Projects & Power Automate & Power Apps</h5>
+<h4>SharePoint Projects & Power Automate & Power Apps</h4>
 
   - **Pension Power App** 
   
