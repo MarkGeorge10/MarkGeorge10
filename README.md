@@ -7,7 +7,7 @@
 - 🌱 I’m currently **Enhance my skills in Algorithms**.
 
 
-<h4>My Projects</h4>
+<h3>My Projects</h3>
 
 <h4>Machine Learning Projects</h4>
 
