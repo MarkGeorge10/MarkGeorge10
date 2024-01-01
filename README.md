@@ -11,6 +11,10 @@
 
 <h4>Machine Learning Projects</h4>
 
+- **Intelligent Mancala game**
+  <br/>Used technology: Python, adversarial search algorithms, reinforcement learning techniques<br/>
+      Strategic Gameplay: Unleash the power of Minimax & Alpha-Beta Pruning for a tactical gaming experience and real-time Learning: Experience the magic of Q-Learning Reinforcement as the AI dynamically adapts.
+
 - **Medical Basket Analysis**
   <br/>Used technology: Python, Excel, SQL Queries, TFS, Git, Spider, Preprocessing, Data Mining, Machine Learning<br/>
       Finding relations between tests with each other and Did “Vitamin D” trigger other tests or triggered by other tests? From that point, we performed medical test Basket Analysis with FP Growth model with 85% support and 90% confidence.
