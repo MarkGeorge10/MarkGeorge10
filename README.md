@@ -77,7 +77,7 @@
 
 - <img src="https://play-lh.googleusercontent.com/W-8DrKL9cKiWAnOR-HrpGf8ds0TjPmNcTouWkRBO7opxQBSw_1Mhjyt3yso2N2dtzBM=w480-h960-rw" alt="android" width="40" height="40"/> [Packaging App](https://play.google.com/store/apps/details?id=com.idh.share_box)
 
-- <img src="https://play-lh.googleusercontent.com/n6wcx13vaChjPq9BiP3DniVJ-rrTvQUO5OKtf6V7lvPvwVANlxl46hhSVv2JnJTu6g=w480-h960-rw" alt="android" width="40" height="40"/> [Almokhtabar HC](https://play.google.com/store/apps/details?id=yackeen.almokhtabar.chemist) 
+- <img src="https://play-lh.googleusercontent.com/n6wcx13vaChjPq9BiP3DniVJ-rrTvQUO5OKtf6V7lvPvwVANlxl46hhSVv2JnJTu6g=w480-h960-rw" alt="android" width="40" height="40"/> [Almokhtabar HC](https://play.google.com/store/apps/details?id=idhcorp.mokhtabar.chemist) 
 
 - <img src="https://play-lh.googleusercontent.com/hYrkW5rgkT4SOUSCmguYmsnpocQhNlCwoZWPsC6vHOEk7Y2bJuLGfKG-liwKfgdQRg=w480-h960-rw" alt="android" width="40" height="40"/> [AlMokhtabar Patient](https://play.google.com/store/apps/details?id=yackeen.idh.almokhtabar.almokhtabar) 
 
@@ -85,7 +85,7 @@
 
 - <img src="https://play-lh.googleusercontent.com/Of0yPOBQ27rakUJv5DfNXaKFgXSJD5mYoe6DhIMmTsgJlDo9vp52CvLhpl8ibYwR7NE=w480-h960-rw" alt="android" width="40" height="40"/> [Alborglab  Patient](https://play.google.com/store/apps/details?id=alborglab.app.lab) 
 
-- <img src="https://play-lh.googleusercontent.com/AsFjcehIilcMtuySheDXSTxFjNiOP5Y53ZXdoVyhFkRmMdWF7QoUCWvIcI2nubFml-8=w480-h960-rw" alt="android" width="40" height="40"/> [Alborglab HC](https://play.google.com/store/apps/details?id=yackeen.alborg.chemist)
+- <img src="https://play-lh.googleusercontent.com/AsFjcehIilcMtuySheDXSTxFjNiOP5Y53ZXdoVyhFkRmMdWF7QoUCWvIcI2nubFml-8=w480-h960-rw" alt="android" width="40" height="40"/> [Alborglab HC](https://play.google.com/store/apps/details?id=idhcorp.alborg.chemist)
 
 <h4>Flutter Projects</h4>
 
