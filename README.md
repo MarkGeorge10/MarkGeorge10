@@ -93,7 +93,6 @@
 - <img src="https://play-lh.googleusercontent.com/1NOFCYnfFQstv0Fa2OEaehT2GYZyc4829rIGSvMv2mTWTTqr1TmdpUEWjchYFP6RL_PD=w480-h960-rw" alt="Swiftr" width="40" height="40"/> Swiftr [Android Version](https://play.google.com/store/apps/details?id=se.android.swiftr.swiftr) - [iOS Version](https://apps.apple.com/us/app/swiftr/id1260906262)
   
 - <img src="https://github.com/MarkGeorge10/MarkGeorge10/assets/34999954/9a5d2121-af87-4693-9ea0-8dbbac4e4a2b" alt="Rayan" width="40" height="40"/> Rayan [Android Version](https://play.google.com/store/apps/details?id=com.skyvision.rayan) - [iOS Version](https://apps.apple.com/app/rayan-app/id6449189511)
-
 - <img src="https://github.com/MarkGeorge10/MyDayApp/assets/34999954/367f3b5a-8da8-44af-b64b-12c76df92ce3" alt="My Day" width="40" height="40" My Day [App Demo](https://www.upwork.com/fl/~012f6d149f8a36d819?s=996364627857502209&p=1710102861465825280)
   
 - <img src="https://play-lh.googleusercontent.com/_vrwrpVloOtqpbb1fCJGZLWdGD0K37Z28n5_NC1dCIfCRMhCvjJfUd_eEfyhF9bEbPaQ=w480-h960-rw" alt="android" width="40" height="40"/> Organ Live [Android Version](https://play.google.com/store/apps/details?id=com.organ.media.organ_media) - [iOS Version](https://apps.apple.com/app/organ-live-media-foundation/id1663040569) 
