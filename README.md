@@ -42,7 +42,7 @@
 
 <h4>Backend Projects</h4>
 
-<!--   - **Wedding NestJs Application** 
+   - **Wedding NestJs Application** 
        <br/>Used technology: Nestjs, Typescript, Prisma, Clickup, Github, Git, Supabase, SQL Queries <br/>
       I have developed a backend application for a wedding mobile app using Prisma and NestJS. Your application 
       deals with user authentication using JWT, manages vendors and their categories, and allows users to create 
@@ -53,7 +53,7 @@
       - Vendor Management Implement CRUD (Create, Read, Update, Delete) operations for vendors, and Categorize vendors for easy navigation and search.<br/>
       - Wedding Planning Create a structured plan object that includes details such as budget, vendors, etc, Implement budget tracking and expense management for the wedding plan, Allow users to add and remove items or tasks from their plans, and Provide recommendations based on the budget and preferences.<br/>
       - Search and Filters Implement search functionality for vendors and categories, and Use filters to refine vendor searches based on location, price range, and services.<br/>
-      - Notifications Send notifications for important events like upcoming appointments or tasks, and Allow users to customize their notification preferences.<br/>-->
+      - Notifications Send notifications for important events like upcoming appointments or tasks, and Allow users to customize their notification preferences.<br/>
 
 - **Davedology Course management system** 
     <br/>Used technology: ASP.net core, SQL Server, video streaming, Github, Git, SQL Queries<br/>
@@ -94,7 +94,7 @@
   
 - <img src="https://github.com/MarkGeorge10/MarkGeorge10/assets/34999954/9a5d2121-af87-4693-9ea0-8dbbac4e4a2b" alt="Rayan" width="40" height="40"/> Rayan [Android Version](https://play.google.com/store/apps/details?id=com.skyvision.rayan) - [iOS Version](https://apps.apple.com/app/rayan-app/id6449189511)
 
-<!--  <img src="https://github.com/MarkGeorge10/MyDayApp/assets/34999954/367f3b5a-8da8-44af-b64b-12c76df92ce3" alt="My Day" width="40" height="40" My Day [App Demo](https://www.upwork.com/fl/~012f6d149f8a36d819?s=996364627857502209&p=1710102861465825280)-->
+- <img src="https://github.com/MarkGeorge10/MyDayApp/assets/34999954/367f3b5a-8da8-44af-b64b-12c76df92ce3" alt="My Day" width="40" height="40" My Day [App Demo](https://www.upwork.com/fl/~012f6d149f8a36d819?s=996364627857502209&p=1710102861465825280)
   
 - <img src="https://play-lh.googleusercontent.com/_vrwrpVloOtqpbb1fCJGZLWdGD0K37Z28n5_NC1dCIfCRMhCvjJfUd_eEfyhF9bEbPaQ=w480-h960-rw" alt="android" width="40" height="40"/> Organ Live [Android Version](https://play.google.com/store/apps/details?id=com.organ.media.organ_media) - [iOS Version](https://apps.apple.com/app/organ-live-media-foundation/id1663040569) 
 
