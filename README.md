@@ -5,11 +5,11 @@
 <p align="center">Building intelligent systems with a passion for machine learning, algorithms, and mobile development. Currently an AI Research Assistant at Pennsylvania State University.</p>
 
 <h3>About Me</h3>
-- 🔭 Working as an <b>AI Research Assistant</b> at Pennsylvania State University.
-- 🎓 Pursuing a <b>Master's Degree in Artificial Intelligence</b>.
-- 🌱 Enhancing my skills in <b>Algorithms</b> and diving deep into <b>Programming Automatic Calculus</b>.
-- 💬 Ask me about <b>Machine Learning, Android Development, Flutter Development</b>.
-- 📫 Reach me at <a href="mailto:mark.fahim50@gmail.com">mark.fahim50@gmail.com</a>.
+- 🔭 Working as an <b>AI Research Assistant</b> at Pennsylvania State University.<br/>
+- 🎓 Pursuing a <b>Master's Degree in Artificial Intelligence</b>.<br/>
+- 🌱 Enhancing my skills in <b>Algorithms</b> and diving deep into <b>Programming Automatic Calculus</b>.<br/>
+- 💬 Ask me about <b>Machine Learning, Android Development, Flutter Development</b>.<br/>
+- 📫 Reach me at <a href="mailto:mark.fahim50@gmail.com">mark.fahim50@gmail.com</a>.<br/>
 
 
 <h3>My Projects</h3>
