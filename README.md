@@ -78,7 +78,7 @@
   Patient app for lab test results and services.
 
 - **[Swiftr](https://play.google.com/store/apps/details?id=se.android.swiftr.swiftr)**  
-  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  
+  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)[https://play.google.com/store/apps/details?id=se.android.swiftr.swiftr] 
   Cross-platform app for seamless user experiences.
 
 *(Add links for other apps like EchoLab, Alborglab, etc., as desired)*
