@@ -73,11 +73,16 @@
   Intuitive dashboard for managing feeds, viewing summaries, and providing feedback.
 
 #### Mobile Apps (iOS/Android/Flutter)
-- **[AlMokhtabar Patient](https://apps.apple.com/eg/app/almokhtabar-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A8%D8%B1/id1079320486)**  
-  ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)  
+- **[AlMokhtabar Patient](https://apps.apple.com/eg/app/almokhtabar-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A8%D8%B1/id1079320486)**
+     <a href="https://play.google.com/store/apps/details?id=se.android.swiftr.swiftr" target="_blank">
+      <img src="https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white" alt="Swift"/>
+     </a>
+    <a href="https://play.google.com/store/apps/details?id=yackeen.idh.almokhtabar.almokhtabar&hl=he" target="_blank">
+      <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white" alt="Swift"/>
+    </a>
   Patient app for lab test results and services.
 
-- **[Swiftr]()**  
+- **[Swiftr]**  
   <a href="https://play.google.com/store/apps/details?id=se.android.swiftr.swiftr" target="_blank">
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter"/>
 </a>
