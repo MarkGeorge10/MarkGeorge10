@@ -12,7 +12,7 @@
 <h4>Machine Learning Projects</h4>
 
 - **AI-Driven News Intelligence Platform**
-  <br/>Used technology: Python, adversarial search algorithms, reinforcement learning techniques<br/>
+  <br/>Used technology: Python, NLP analsis, HPC super computer, NTLK, SCapy<br/>
       This project delivers an automated news aggregation and curation system, combining web scraping, natural language processing (NLP), and user feedback mechanisms to streamline information consumption. The platform integrates two primary data       
        pipelines: (1) a third-party integration with Inoreader API, where a Python-based scraper collects and processes news articles before marking them as read, and (2) a user-configurable RSS feed management system. Users can dynamically add or 
        remove RSS feeds via a Next.js dashboard, with all feed metadata stored in PostgreSQL. The scraper service automatically discovers and processes new content from these feeds, ensuring continuous data ingestion.
