@@ -77,8 +77,10 @@
   ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)  
   Patient app for lab test results and services.
 
-- **[Swiftr](https://play.google.com/store/apps/details?id=se.android.swiftr.swiftr)**  
-  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)[https://play.google.com/store/apps/details?id=se.android.swiftr.swiftr] 
+- **[Swiftr]()**  
+  <a href="https://play.google.com/store/apps/details?id=se.android.swiftr.swiftr" target="_blank">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter"/>
+</a>
   Cross-platform app for seamless user experiences.
 
 *(Add links for other apps like EchoLab, Alborglab, etc., as desired)*
