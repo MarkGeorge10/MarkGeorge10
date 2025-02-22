@@ -126,7 +126,7 @@
 
 -  <img src="https://play-lh.googleusercontent.com/Sp7wIVEkEOcEqlcR_-POPtqhrW6111wIMOPil9h-JHQWWZrDQhMml7rGXIzwWWd60g=w480-h960-rw" alt="Dream Riders" width="40" height="40"/> Dream Riders [Android Version](https://play.google.com/store/apps/details?id=com.dreamrider.dreamriders) - [iOS Version](https://apps.apple.com/us/app/dream-riders/id1629505438)
 
-- <img src="https://play-lh.googleusercontent.com/9YW-L5NiXs9x7umD-MouIYzvKyzUWzG2ZS97Ge_gC96j3Gb3I-jZ_PlDGOoT68uX3Q=w480-h960-rw" alt="android" width="40" height="40"/> SKODA Cars [Android Version](https://play.google.com/store/apps/details?id=com.skoda.skodacar&fbclid=IwAR0Yn7daXTAMjYT2T0V207ya2q6vEzx3AM0hUtbmBHCIlbm3HtCDiwz8XZU) - [iOS Version](https://apps.apple.com/us/app/%C5%A1koda-mc/id1578478791)
+- <img src="https://play-lh.googleusercontent.com/9YW-L5NiXs9x7umD-MouIYzvKyzUWzG2ZS97Ge_gC96j3Gb3I-jZ_PlDGOoT68uX3Q=w480-h960-rw" alt="android" width="40" height="40"/> SKODA Cars [Android Version](https://play.google.com/store/apps/details?id=com.promina.skoda) - [iOS Version](https://apps.apple.com/us/app/%C5%A1koda-mc/id1578478791)
 
 - <img src="https://play-lh.googleusercontent.com/U64NmeqS8fh6luh4ItaUYqkwlIuiLd6Xxgkdd4lRESyE42j5IGVx3vlvBzmVATmo6zw=w480-h960-rw" alt="android" width="40" height="40"/> Mr Fix [Android Version](https://play.google.com/store/apps/details?id=com.vadecom.mr_fix) - [iOS Version](https://apps.apple.com/us/app/dream-riders/id1629505438)
 
