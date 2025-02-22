@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://your-hosted-image-url.com/banner.png" alt="Mark Fahim Banner" width="600"/>
-</p>
+
 
 <h1 align="center">Hi, I'm Mark Fahim 👋</h1>
 <h3 align="center">Senior Software Engineer | AI Specialist | Master's Student in AI</h3>
@@ -11,13 +9,8 @@
 - 🎓 Pursuing a <b>Master's Degree in Artificial Intelligence</b>.
 - 🌱 Enhancing my skills in <b>Algorithms</b> and diving deep into <b>Programming Automatic Calculus</b>.
 - 💬 Ask me about <b>Machine Learning, Android Development, Flutter Development</b>.
-- 📫 Reach me at <a href="mailto:mark.fouad99@gmail.com">mark.fouad99@gmail.com</a>.
+- 📫 Reach me at <a href="mailto:mark.fahim50@gmail.com">mark.fahim50@gmail.com</a>.
 
-<h3>Achievements</h3>
-- 🏆 Developed an ANN-based heart disease prediction system with <b>94% accuracy</b> (up from 84% with Random Forest).
-- 🚀 Deployed a scalable AI-driven news platform on AWS, reducing information overload for users.
-- 📱 Published <b>10+ mobile apps</b> on Google Play and App Store, serving thousands of users.
-- 📊 Delivered actionable insights via PCR Analysis during COVID-19, identifying high-infection regions.
 
 <h3>My Projects</h3>
 
@@ -164,7 +157,7 @@
      
 
 <h3>Skills & Tools</h3>
-<p align="center">
+<p align="left">
   <b>Languages:</b> Python, C#, Swift, Kotlin, Dart, TypeScript, R<br/>
   <b>Frameworks:</b> FastAPI, NestJS, Flutter, React, .NET Core, Next.js<br/>
   <b>AI/ML:</b> TensorFlow, Scikit-Learn, NLTK, BERT, PEGASUS-X, Pandas<br/>
@@ -189,7 +182,7 @@
 
 <h3>Let’s Collaborate!</h3>
 <p align="center">
-  Got a challenging problem or exciting project? Reach me at <a href="mailto:mark.fouad99@gmail.com">mark.fouad99@gmail.com</a> or connect on <a href="https://linkedin.com/in/mark-george-48410a153/">LinkedIn</a>.
+  Got a challenging problem or exciting project? Reach me at <a href="mailto:mark.fouad99@gmail.com">mark.fahim50@gmail.com</a> or connect on <a href="https://www.linkedin.com/in/mark-fahim-48410a153/">LinkedIn</a>.
 </p>
 
 <p align="center">
