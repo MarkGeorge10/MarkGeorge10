@@ -11,6 +11,20 @@
 
 <h4>Machine Learning Projects</h4>
 
+- **AI-Driven News Intelligence Platform**
+  <br/>Used technology: Python, adversarial search algorithms, reinforcement learning techniques<br/>
+      This project delivers an automated news aggregation and curation system, combining web scraping, natural language processing (NLP), and user feedback mechanisms to streamline information consumption. The platform integrates two primary data       
+       pipelines: (1) a third-party integration with Inoreader API, where a Python-based scraper collects and processes news articles before marking them as read, and (2) a user-configurable RSS feed management system. Users can dynamically add or 
+       remove RSS feeds via a Next.js dashboard, with all feed metadata stored in PostgreSQL. The scraper service automatically discovers and processes new content from these feeds, ensuring continuous data ingestion.
+
+  At the core of the platform is an NLP-powered classification engine that filters articles into "Important" or "Not Important" categories. Built using BERT-based models and fine-tuned with user feedback, the system continuously improves its 
+       accuracy through iterative retraining. Additionally, the platform incorporates advanced text summarization techniques (e.g., PEGASUS-X) to generate concise, executive-style summaries of each article, complete with keyword extraction and source 
+     attribution. These summaries are presented alongside the original content, enabling users to quickly grasp key insights without sifting through lengthy articles.
+
+     The system is designed for scalability and user-centricity. A Next.js dashboard provides an intuitive interface for managing feeds, viewing summaries, and providing feedback on article relevance. Backend services, built with FastAPI and deployed 
+     on AWS, ensure high performance and reliability, while Docker containerization simplifies maintenance and scaling. By combining cutting-edge NLP techniques with robust engineering practices, this platform empowers users to stay informed 
+     efficiently, reducing information overload while maintaining context and accuracy.
+
 - **Intelligent Mancala game**
   <br/>Used technology: Python, adversarial search algorithms, reinforcement learning techniques<br/>
       Strategic Gameplay: Unleash the power of Minimax & Alpha-Beta Pruning for a tactical gaming experience and real-time Learning: Experience the magic of Q-Learning Reinforcement as the AI dynamically adapts.
