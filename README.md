@@ -56,6 +56,12 @@
 
 <h4>Backend Projects</h4>
 
+  - **Building News Intelligence Backend with FastAPI and PostgreSQL**
+    <br/>Used technology: Python, FASTAPI, Prisma, Github, Git, Supabase, Docker <br/>
+    The AI-powered news platform’s backend was built using FastAPI, a high-performance Python framework, to handle API requests, manage data pipelines, and integrate AI models. Its asynchronous capabilities efficiently processed tasks like article          scraping, NLP processing, and content delivery, while RESTful endpoints ensured seamless communication between components. PostgreSQL was chosen for data storage, optimized for structured data like article metadata, RSS feeds, and NLP outputs. The 
+    pgvector extension enabled semantic search, and Redis caching improved performance. Docker ensured consistent deployment, and AWS provided scalable infrastructure. Together, FastAPI and PostgreSQL formed a robust, scalable foundation supporting 
+    real-time data ingestion, NLP, and user feedback, with room for future enhancements like multi-language support and advanced analytics.
+
    - **Wedding NestJs Application** 
        <br/>Used technology: Nestjs, Typescript, Prisma, Clickup, Github, Git, Supabase, SQL Queries <br/>
       I have developed a backend application for a wedding mobile app using Prisma and NestJS. Your application 
@@ -77,6 +83,10 @@
       while also gaining access to insightful analytics for the quiz section. Elevate your educational journey with our 
       innovative course management solution.
 
+
+<h4>Front-end Projects</h4>
+
+- [News Intelligence Platform]([https://apps.apple.com/eg/app/almokhtabar-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A8%D8%B1/id1079320486](https://market-pipeline-news.vercel.app/)) 
 
 <h4>iOS Projects</h4>
 
