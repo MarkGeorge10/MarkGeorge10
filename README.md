@@ -86,7 +86,7 @@
 
 <h4>Front-end Projects</h4>
 
-- [News Intelligence Platform]([https://apps.apple.com/eg/app/almokhtabar-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A8%D8%B1/id1079320486](https://market-pipeline-news.vercel.app/)) 
+- [News Intelligence Platform](https://market-pipeline-news.vercel.app/)
 
 <h4>iOS Projects</h4>
 
